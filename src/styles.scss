@@ -1,0 +1,9 @@
+:root {
+    --primary-color: #026467;
+    --secondary-color: rgba(255, 255, 255, 0.3);
+    --body-text-color: #ffffff;
+}
+
+body{
+    color: var(--body-text-color) !important;
+}
